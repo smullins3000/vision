@@ -1,6 +1,6 @@
 # Welcome to the Azure Vision Workshop!
 
-This workshop is a segment from the Ignite 2019 App Developer Keynote: "[App Development for Everyone](https://youtu.be/h9YaYdoqiRA?t=3890)" by Scott Hanselman and Seth Juarez. 
+ This workshop is a segment from the Ignite 2019 App Developer Keynote: "[App Development for Everyone](https://youtu.be/h9YaYdoqiRA?t=3890)" by Scott Hanselman and Seth Juarez. 
 
 
 In the Keynote Scott built a "[Rock, Paper, Scissors, Lizard, Spock](https://github.com/microsoft/RockPaperScissorsLizardSpock)" web application in multiple languages which also includes the content from this workshop using [Azure CustomVision](https://www.customvision.ai/).
